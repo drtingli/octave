@@ -1,3 +1,0 @@
-octave_kernel
-ipywidgets
-jupyter_contrib_nbextensions

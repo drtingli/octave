@@ -1,6 +1,6 @@
 # Octave on mybinder.org
 
-[![Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
+[![Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/drtingli/octave/master?filepath=index.ipynb)
 
 Using [mybinder.org](https://mybinder.org/) to host Octave scripts on internet.
 This shows you how to share and run Octave code remotely.
