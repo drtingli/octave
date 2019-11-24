@@ -2,8 +2,7 @@
 
 [![Binder](https://mybinder.org/static/images/badge_logo.svg)](https://mybinder.org/v2/gh/binder-examples/octave/master?filepath=index.ipynb)
 
-An example of using Octave on [mybinder.org](https://mybinder.org/).
-
-This shows you how to make Matlab code that works with [Octave](https://www.gnu.org/software/octave/) run on [mybinder.org](https://mybinder.org/).
+Using [mybinder.org](https://mybinder.org/) to host Octave scripts on internet.
+This shows you how to share and run Octave code remotely.
 
 The [example notebook](index.ipynb) is taken from the [octave_kernel](https://github.com/Calysto/octave_kernel) repository.
